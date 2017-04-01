@@ -1,10 +1,8 @@
 welcome_full: I'll read the moves of chess openings to help you visualize the the pawns on the board. Ready?
 welcome: Ready?
 
-round_full: "{{ opening }}. First move, {{ moves[0][0] }}, {{ moves[0][1] }}. Second move, {{ moves[1][0] }}, {{ moves[1][1] }}. Where is the {{ target[0] }}?"
+round: The opening is {{challenge}}
 
-round: go
-
-win: The {{ pawn }} is in row {{ row }}. Correct!
+win: The {{ pawn }} is in row {{ row }}, correct!
 
 lose: Sorry, the {{ pawn }} is in row {{ row }}.

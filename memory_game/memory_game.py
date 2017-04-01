@@ -6,6 +6,20 @@ from flask_ask import Ask, statement, question, session
 app = Flask(__name__)
 ask = Ask(app, "/")
 
+openings = [
+        {
+            "name": "Ruy Lopez",
+            "moves": [['e4', 'e5'], ['Knight f3', 'Knight c6']],
+            "target": ['white e pawn', 'e', 4]
+        },
+        {
+            "name": "Sicilian Defense",
+            "moves": [['e4', 'c5'], ['d4', 'Knight f6']],
+            "target": ['black e pawn', 'e', 4]
+        },
+
+    ]
+
 logging.getLogger("flask_ask").setLevel(logging.DEBUG)
 
 @ask.launch
@@ -15,12 +29,16 @@ def new_game():
 
 @ask.intent("YesIntent")
 def next_round():
-    opening = "King's Indian Defense"
-    moves = [['e4', 'e5'], ['d4', 'Knight f6']]
-    target = ['white e pawn', 'e', 4]
+    opening = openings[0]
+    name = opening["name"]
+    moves = opening["moves"]
+    target = opening["target"]
     session.attributes['target_pawn'] = target[0]
     session.attributes['target_row'] = target[2]
-    round_msg = render_template('round', opening=opening, moves=moves, target=target)
+
+    challenge = "{name}. First move, {moves[0][0]}, {moves[0][1]}. Second move, {moves[1][0]}, {moves[1][1]}. Where is the {target[0]}?".format(name=name, moves=moves, target=target)
+    print(challenge)
+    round_msg = render_template('round', challenge=challenge)
     return question(round_msg)
 
 @ask.intent("AnswerIntent", convert={'second': int})
