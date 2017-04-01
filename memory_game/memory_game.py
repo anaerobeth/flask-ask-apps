@@ -15,18 +15,23 @@ def new_game():
 
 @ask.intent("YesIntent")
 def next_round():
-    numbers = [randint(0, 9) for _ in range(3)]
-    round_msg = render_template('round', numbers=numbers)
-    session.attributes['numbers'] = numbers[::-1]
+    opening = "King's Indian Defense"
+    moves = [['e4', 'e5'], ['d4', 'Knight f6']]
+    target = ['white e pawn', 'e', 4]
+    session.attributes['target_pawn'] = target[0]
+    session.attributes['target_row'] = target[2]
+    round_msg = render_template('round', opening=opening, moves=moves, target=target)
     return question(round_msg)
 
-@ask.intent("AnswerIntent", convert={'first': int, 'second': int, 'third': int})
-def answer(first, second, third):
-    winning_numbers = session.attributes['numbers']
-    if [first, second, third] == winning_numbers:
-        msg = render_template('win')
+@ask.intent("AnswerIntent", convert={'second': int})
+def answer(first, second):
+    pawn = session.attributes['target_pawn']
+    row = session.attributes['target_row']
+
+    if second == row:
+        msg = render_template('win', pawn=pawn, row=row)
     else:
-        msg = render_template('lose')
+        msg = render_template('lose', pawn=pawn, row=row)
     return statement(msg)
 
 if __name__ == '__main__':

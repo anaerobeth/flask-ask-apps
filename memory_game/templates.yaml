@@ -1,7 +1,10 @@
-welcome: Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Ready?
+welcome_full: I'll read the moves of chess openings to help you visualize the the pawns on the board. Ready?
+welcome: Ready?
 
-round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+round_full: "{{ opening }}. First move, {{ moves[0][0] }}, {{ moves[0][1] }}. Second move, {{ moves[1][0] }}, {{ moves[1][1] }}. Where is the {{ target[0] }}?"
 
-win: Good job!
+round: go
 
-lose: Sorry, that's the wrong answer.
+win: The {{ pawn }} is in row {{ row }}. Correct!
+
+lose: Sorry, the {{ pawn }} is in row {{ row }}.
