@@ -1,8 +1,7 @@
-welcome_full: I'll read the moves of chess openings to help you visualize the the pawns on the board. Ready?
-welcome: Ready?
+welcome: I'll read the moves of chess openings to help you visualize the the board. Ready?
 
-round: The opening is {{challenge}}
+round: The opening is {{ challenge }}, {{ second_move }}, {{ third_move }}, {{ fourth_move }}, {{ fifth_move }}. {{ target }}.
 
-win: The {{ pawn }} is in row {{ row }}, correct!
+win: Correct! The {{ pawn }} is in row {{ row }}.
 
 lose: Sorry, the {{ pawn }} is in row {{ row }}.
