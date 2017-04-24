@@ -13,12 +13,14 @@ logging.getLogger("flask_ask").setLevel(logging.DEBUG)
 def new_game():
     first_fact = render_template(choice(ascii_letters))
     welcome_msg = render_template('welcome', first_fact=first_fact)
+    print welcome_msg
     return question(welcome_msg)
 
 @ask.intent("YesIntent")
 def next_round():
     second_fact = render_template(choice(ascii_letters))
     round_msg = render_template('round', second_fact=second_fact)
+    print round_msg
     return statement(round_msg)
 
 if __name__ == '__main__':

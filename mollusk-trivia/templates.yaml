@@ -1,10 +1,10 @@
-welcome: I'll help you learn facts about mollusks from the Encyclopedia of Life. {{ first_fact }}. Would you like to hear more?
+welcome: I'll help you learn facts about mollusks from the Encyclopedia of Life. {{ first_fact }} Come back for more mollusk trivia tomorrow.
 
 round: Here's more. {{ second_fact }}.  Come back for more mollusk trivia tomorrow!
 
 a: Mollusca, from the Latin root for soft, might seem an odd descriptor for these animals if you’re mostly familiar with mollusks in a culinary, shell-collecting, or decorative context. In many of our most familiar mollusks, the hard shell is widely considered either the most interesting and valuable part or the chief barrier between you and your meal.
 
-b: Molluscs have adapted to terrestrial, marine and freshwater habitats all over the globe, although most molluscs are marine. Nearly 100,000 mollusc species are known and many thousands of species of extant species remain undescribed. Around 80% of known molluscs are gastropods.
+b: Molluscs have adapted to terrestrial, marine and freshwater habitats all over the globe, although most molluscs are marine. Nearly a hundred thousand mollusc species are known and many thousands of species of extant species remain undescribed. Around 80% of known molluscs are gastropods.
 
 c: There are several branches within the Gastropoda with reduced, barely noticeable shells, much like the cephalopods, and others whose shells have been entirely lost. Then there are the aplacophorans, which throughout their evolution never possessed a shell.
 
@@ -16,7 +16,7 @@ f: In many gastropods and cephalopods, the mantle is brightly colored and import
 
 g: In giant clams, the outer mantle tissue is colonized by symbiotic algae that provide their host with food energy in exchange for shelter. Since in bivalves the mantle is the tissue closest to the outside world, it’s the best place to put sensory organs, like eyes or sensory tentacles, or both.
 
-h: In many bivalves and snails, and in cephalopods, part of the mantle is modified into a siphon, which can be used to pump water through the mantle cavity for respiration, feeding and/or jet propulsion.
+h: In many bivalves and snails, and in cephalopods, part of the mantle is modified into a siphon, which can be used to pump water through the mantle cavity for respiration, feeding and or jet propulsion.
 
 i: Freshwater and marine mollusks have gills (called ctenidia) for respiration, located in the mantle cavity. In most bivalves, these are enlarged and serve to trap food particles as well).
 
@@ -42,11 +42,11 @@ t: Their aragonite preference may leave both corals and mollusks especially vuln
 
 u: It has been estimated that by the year 2050, rising acidity will begin to deplete the available ions below optimal levels for aragonite building in the cold waters of the Southern Ocean. Species that can build with calcite, like sea urchins and some sponges, will be slightly less sensitive to the change.
 
-v: When the name “Mollusca” was first coined, it also included barnacles (later discovered to be crustaceans), brachiopods (a separate phylum) and sea squirts (which are actually chordates, like you and me!).
+v: When the name Mollusca was first coined, it also included barnacles (later discovered to be crustaceans), brachiopods (a separate phylum) and sea squirts (which are actually chordates, like you and me!).
 
-w: Among the currently recognized mollusks, aplacophorans have historically been classified as sea cucumbers, as well as sipunculans, priapulids and other worms (Heath 1868). Nudibranchs frequently appear in identification guides together with flatworms since observers have trouble distinguishing them.
+w: Among the currently recognized mollusks, aplacophorans have historically been classified as sea cucumbers, as well as sipunculans, priapulids and other worms. Nudibranchs frequently appear in identification guides together with flatworms since observers have trouble distinguishing them.
 
-x: Many nudibranchs carry distasteful chemicals from the sponges they feed on, and advertise their identity with bright colors and patterns; other nudibranchs as well as flatworms have evolved similar color patterns in order to take advantage of this warning (Seifarth 2002).
+x: Many nudibranchs carry distasteful chemicals from the sponges they feed on, and advertise their identity with bright colors and patterns; other nudibranchs as well as flatworms have evolved similar color patterns in order to take advantage of this warning.
 
 y: This wide range of shapes and sizes may help explain how Mollusks have become such a globally cosmopolitan success. There are nearly one hundred thousand known species and this is likely to be a gross underestimate of the total number, considering how many mollusks we’ve already found in remote habitats, like the deep sea, that we have as yet only barely sampled.
 
@@ -62,7 +62,7 @@ D: Solenogastres are broader bodied and equipped with a long, grooved foot and p
 
 E: Some Solenogastres species have shown regenerative capabilities—if the posterior end is cut off, it will grow back. This occasionally results in a forked tail. Caudofoveates have separate sexes but solenogastres are hermaphrodites, starting life as males and become females when they’re older.
 
-F: Bivalves’ shells are divided in two halves, hinged by an elastic ligament. Within mollusks, bivalves are second only to snails in number of known species, and are incredibly diverse in size, shape, and mode of life.
+F: Bivalves' shells are divided in two halves, hinged by an elastic ligament. Within mollusks, bivalves are second only to snails in number of known species, and are incredibly diverse in size, shape, and mode of life.
 
 G: One of the major subgroup of bivalves, the Protobranchia, contains burrowing species that commonly feed on deposited sediment, using tentacles that extend from their mouth (called palp proboscides).
 
@@ -74,7 +74,7 @@ J: Heteroconchia also includes species that live above the sediment, such as the
 
 K: Cephalopods are one of the smaller mollusk groups at around 800 known species, but they are the most familiar group to many of us thanks to their elaborate, well documented behavior. Cephalopods are found throughout the world oceans at all depths. In this group, only the Nautiluses have a substantial outer shell.
 
-L: In other cephalopods, the outer shell has been reduced to a small internal structure, the “pen” in squid or the “cuttlebone” in cuttlefish. The un-armored cephalopods rely for safety on an array of strategies including camoflage, constructed shelter, and flight. In a pinch, digging works too.
+L: In other cephalopods, the outer shell has been reduced to a small internal structure, the pen in squid or the cuttlebone in cuttlefish. The un-armored cephalopods rely for safety on an array of strategies including camoflage, constructed shelter, and flight. In a pinch, digging works too.
 
 M: Cephalopods are intelligent and highly visual. They’re great visual communicators; elaborate posturing and skin pigment displays accompany social behavior, including aggressive behavior.
 
@@ -96,10 +96,10 @@ U: In groups lacking the protection of a shell, like the nudibranchs, many speci
 
 V: Monoplacophorans bear a single shell and if you were looking at one shell-side up you might confuse it with a bivalve. Modern Monoplacophorans live in the deep sea, though fossil relatives once lived in shallow water also. We first discovered living representatives of this group only sixty years ago.
 
-W: Tusk shells (Scaphopoda) can be 3–15 cm long and are protected by a curved, tubular shell shaped like an elephant’s tusk. The shell is open at both ends, and both the head and foot of the animal are at the broader end.
+W: Tusk shells (Scaphopoda) can be 3 to 15 centimeters long and are protected by a curved, tubular shell shaped like an elephant’s tusk. The shell is open at both ends, and both the head and foot of the animal are at the broader end.
 
 X: Tusk shells creates a current through the shell using its cilia and occasional contractions of its muscles to bring in water for respiration, which exits the narrow end of the shell. They live in the sediment and most feed chiefly on foraminiferans, but detritus, microbes, and other small prey are also taken by their fine, cilia-covered tentacles.
 
 Y: The phylum Mollusca contains some of the most familiar invertebrates, including snails, slugs, clams, mussels, and octopuses. In contrast to these well-known molluscs, however, others are almost never seen, such as the aplacophorans and monoplacophorans, the latter of which which were only known from Paleozoic fossils until the first live specimen was discovered in the deep sea in 1952.
 
-Z: Except for the aplacophorans, most molluscs have a well-developed, muscular foot. This structure is used in a multitude of ways, for example: locomotion, clinging to surfaces, burrowing, anchoring in sediment, swimming, and grasping (modified into prehensile tentacles in octopuses).
+Z: Except for the aplacophorans, most molluscs have a well-developed, muscular foot. This structure is used in a multitude of ways, for example, locomotion, clinging to surfaces, burrowing, anchoring in sediment, swimming, and grasping (modified into prehensile tentacles in octopuses).
