@@ -2,7 +2,7 @@ welcome: I'll help you learn facts about mollusks from the Encyclopedia of Life.
 
 round: Here's more. {{ second_fact }}.  Come back for more mollusk trivia tomorrow!
 
-a: Mollusca, from the Latin root for soft, might seem an odd descriptor for these animals if you’re mostly familiar with mollusks in a culinary, shell-collecting, or decorative context. In many of our most familiar mollusks, the hard shell is widely considered either the most interesting and valuable part or the chief barrier between you and your meal.
+a: Mollusca, from the Latin root for soft, might seem an odd descriptor for these animals if you're mostly familiar with mollusks in a culinary, shell-collecting, or decorative context. In many of our most familiar mollusks, the hard shell is widely considered either the most interesting and valuable part or the chief barrier between you and your meal.
 
 b: Molluscs have adapted to terrestrial, marine and freshwater habitats all over the globe, although most molluscs are marine. Nearly a hundred thousand mollusc species are known and many thousands of species of extant species remain undescribed. Around 80% of known molluscs are gastropods.
 
@@ -14,7 +14,7 @@ e: The mantle cavity is positioned differently in different mollusk groups and i
 
 f: In many gastropods and cephalopods, the mantle is brightly colored and important for communication. The mantle also secretes the shell, in those mollusks that have one.
 
-g: In giant clams, the outer mantle tissue is colonized by symbiotic algae that provide their host with food energy in exchange for shelter. Since in bivalves the mantle is the tissue closest to the outside world, it’s the best place to put sensory organs, like eyes or sensory tentacles, or both.
+g: In giant clams, the outer mantle tissue is colonized by symbiotic algae that provide their host with food energy in exchange for shelter. Since in bivalves the mantle is the tissue closest to the outside world, it's the best place to put sensory organs, like eyes or sensory tentacles, or both.
 
 h: In many bivalves and snails, and in cephalopods, part of the mantle is modified into a siphon, which can be used to pump water through the mantle cavity for respiration, feeding and or jet propulsion.
 
@@ -26,17 +26,19 @@ k: In many mollusks, the gonads also feed into the coelom, and the egg and sperm
 
 l: Most mollusk groups do share one other structure that is neither soft nor (apparently) multipurpose, the radula, a filelike feeding apparatus; all groups but the bivalves and some aplacophorans have one. Though the structure is shared among many species, its shape and features vary widely according to the diet of the owner, and it can be an important characteristic in classification.
 
-m: If you’re acquainted with terrestrial mollusks, you’re already aware of the importance of mucus to these animals. In mollusks that move by gliding along on their muscular foot, lubricating mucus is an important part of this process.
+m: If you're acquainted with terrestrial mollusks, you're already aware of the importance of mucus to these animals. In mollusks that move by gliding along on their muscular foot, lubricating mucus is an important part of this process.
 
 n: Locomotory mucus can take up to 23% of the energy budget of some intertidal snails. In the evolution of the shelled mollusks, an early stage of the shell probably involved a protective mucus coating, which eventually became a rigid cuticle before finally becoming hardened with calcium carbonate into the familiar modern mollusk shells.
 
-o: The most widespread function of mucus in the mollusks is for digestion. Strands of mucus originating at the mouth trap and transport food particles through the digestive tract to the anus. In the standard body plan all of this is internal, but some marine species go fishing with their mucus strands, casting them out into the water and swallowing them once they’ve trapped enough passing food particles.
+o: The most widespread function of mucus in the mollusks is for digestion. Strands of mucus originating at the mouth trap and transport food particles through the digestive tract to the anus. In the standard body plan all of this is internal, but some marine species go fishing with their mucus strands, casting them out into the water and swallowing them once they've trapped enough passing food particles.
 
 p: A hard outer shell has been an invaluable asset to many a mollusk—some successful extant lineages may owe their survival to this feature. Mollusk shells have even influenced the fate and evolution of non-mollusks, of which hermit crabs may be the best example.
 
 q: Mollusk shells are made up of chitin (the chief component of crustacean shells) and proteins, reinforced with calcium carbonate. This mineral occurs naturally in a couple of different crystal structures, aragonite and calcite.
 
-r: Mollusk shells rely chiefly on aragonite, possibly because this was the crystal more easily precipitated from sea water at the time when mollusks first started calcifying their shells. Aragonite is also used by scleractinian corals for their skeletons, so it’s not surprising that sand in many productive marine regions consists largely of aragonite; it’s mostly the broken, ground up shells and skeletons of mollusks and corals past.
+r: Mollusk shells rely chiefly on aragonite, possibly because this was the crystal more easily precipitated from sea water at the time when mollusks first started calcifying their shells.
+
+s: Aragonite is also used by scleractinian corals for their skeletons, so it's not surprising that sand in many productive marine regions consists largely of aragonite. It's mostly the broken, ground up shells and skeletons of mollusks and corals past.
 
 t: Their aragonite preference may leave both corals and mollusks especially vulnerable to ocean acidification. At its present pH level, the ocean is well supplied with the minerals needed for all organisms that use calcium carbonate to build their shells or skeletons.
 
@@ -50,7 +52,7 @@ x: Many nudibranchs carry distasteful chemicals from the sponges they feed on, a
 
 y: This wide range of shapes and sizes may help explain how Mollusks have become such a globally cosmopolitan success. There are nearly one hundred thousand known species and this is likely to be a gross underestimate of the total number, considering how many mollusks we’ve already found in remote habitats, like the deep sea, that we have as yet only barely sampled.
 
-z: There are mollusks crawling through leaf litter and climbing in trees, clinging to rocks in lakes and rivers and on shorelines, and gliding along or burrowing under the ocean floor at every depth and latitude; there are winged mollusks soaring through the sunlit waters of the epipelagic zone, giant mollusks grappling with sperm whales in the abyssal depths, and countless tiny interstitial mollusks living between grains of sand , which we have scarcely begun to catalog.
+z: There are mollusks crawling through leaf litter and climbing in trees, clinging to rocks in lakes and rivers and on shorelines, and gliding along or burrowing under the ocean floor at every depth and latitude, There are winged mollusks soaring through the sunlit waters of the epipelagic zone, giant mollusks grappling with sperm whales in the abyssal depths, and countless tiny interstitial mollusks living between grains of sand , which we have scarcely begun to catalog.
 
 A: Aplacophorans, the mollusks that never had a shell, are now known to be two separate groups, the caudofoveates and the solenogastres. Though they lack shells, they do have calcified spicules on their skin, which give them a fuzzy appearance.
 
@@ -60,7 +62,7 @@ C: Caudofoveates burrow in the seafloor, throughout the global oceans, at all de
 
 D: Solenogastres are broader bodied and equipped with a long, grooved foot and pedal gland, good for gliding over hard substrate, and over the corals and other cnidarians they feed on. They probably locate their prey by smell.
 
-E: Some Solenogastres species have shown regenerative capabilities—if the posterior end is cut off, it will grow back. This occasionally results in a forked tail. Caudofoveates have separate sexes but solenogastres are hermaphrodites, starting life as males and become females when they’re older.
+E: Some Solenogastres species have shown regenerative capabilities. If the posterior end is cut off, it will grow back. This occasionally results in a forked tail. Caudofoveates have separate sexes but solenogastres are hermaphrodites, starting life as males and become females when they're older.
 
 F: Bivalves' shells are divided in two halves, hinged by an elastic ligament. Within mollusks, bivalves are second only to snails in number of known species, and are incredibly diverse in size, shape, and mode of life.
 
@@ -76,7 +78,7 @@ K: Cephalopods are one of the smaller mollusk groups at around 800 known species
 
 L: In other cephalopods, the outer shell has been reduced to a small internal structure, the pen in squid or the cuttlebone in cuttlefish. The un-armored cephalopods rely for safety on an array of strategies including camoflage, constructed shelter, and flight. In a pinch, digging works too.
 
-M: Cephalopods are intelligent and highly visual. They’re great visual communicators; elaborate posturing and skin pigment displays accompany social behavior, including aggressive behavior.
+M: Cephalopods are intelligent and highly visual. They're great visual communicators; elaborate posturing and skin pigment displays accompany social behavior, including aggressive behavior.
 
 N: All cephalopods can get around using jet propulsion; however, all but the Nautiluses rely chiefly on their fins except when high speed is urgently needed. Fins are attached to the mantle and vary from a continuous encircling skirt to a pair of stubby (but effective) flappers.
 
